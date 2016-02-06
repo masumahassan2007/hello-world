@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+===============
+HELLO! 
+
+I'M A KITTY AND I DO NOT LIKE HOTDOGS (I'M NOT A KITTY AND I DO LIKE HOTDOGS.)
